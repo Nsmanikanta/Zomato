@@ -1,0 +1,69 @@
+
+.parent
+{   
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 20px; 
+    height: 500px;  
+.child
+{
+    height: 400px;
+    width: 450px;
+  }
+.kid
+{  
+    display: flex;
+    height: 370px;
+clip-path: circle(303px);
+}
+.button
+{
+position: absolute;
+top: 480px;
+left: 805px;
+background-color:red;
+border-radius: 20px;
+height: 70px;
+width: 345px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+}
+.button
+{
+    font-size: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+#ckn
+{
+    font-size: 28px;
+    color: rgb(38, 38, 133);
+  
+}
+#para
+{
+    font-size: 20px;
+    padding: 5px;
+    color: rgb(65, 43, 43);
+    
+}
+#rs
+{
+    font-size: 25px;
+    color: brown;
+    
+   
+}
+#ttt
+{
+  color: rgb(123, 107, 20);
+  font-size: 20px;
+}
+#rer
+{
+    background-color: aqua;
+}
+
